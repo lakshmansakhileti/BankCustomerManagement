@@ -1,3 +1,6 @@
 #don't track this folder
 
 target/
+
+# Don't track this file
+.classpath
